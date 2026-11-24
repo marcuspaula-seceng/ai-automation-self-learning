@@ -1,0 +1,9 @@
+Conditional sums in a spreadsheet
+
+SUMIF checks a criteria range and adds values from a corresponding sum range
+when the criterion matches. Keep both ranges the same size. If there are no
+matches, the result is zero.
+
+In a fictional supply list, cells A2 through A4 contain Pens, Clips, and Pens.
+Cells B2 through B4 contain 4, 7, and 9. The formula
+=SUMIF(A2:A4,"Pens",B2:B4) returns 13 because it adds 4 and 9.
