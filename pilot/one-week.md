@@ -14,7 +14,7 @@
 | 4 | Work out the total for Tools. Add a Tools row worth 4 and update the formula to include it. | A formula that returns 29 after the new row is included. |
 | 5 | Close the notes. Recall the three arguments, the result for a missing category, and how you would check a total. Reopen your note and correct any gaps. | Three recall answers and one note update. |
 | 6 | Use AI to draft three recall questions from one reviewed note. Check each question against the source before saving it. | Three verified questions and a note on what needed editing. |
-| 7 | Take the final check without AI or notes, then score it. Compare with Day 1 and pick one thing to practice next. | A final score, one gap, and a next review date. |
+| 7 | Take the final check without AI or notes, then score it. Compare with Day 1 and use the [weekly recall worksheet](../templates/weekly-review.md) to pick one thing to practice next. | A final score, one gap, and a next review date. |
 
 ## Baseline and final checks
 
