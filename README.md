@@ -40,7 +40,7 @@ The script sends the source to the Ollama API at `127.0.0.1:11434`. Select a loc
 
 ## First milestone
 
-Run the workflow for one week on a single topic. Compare a short recall check before and after the pilot, and use the result to choose one improvement. The draft-and-approve automation supports the Day 6 review exercise.
+Run the workflow for one week on a single topic. Compare a short recall check before and after the pilot, and use the result to choose one improvement. The draft-and-approve automation supports the Day 6 review exercise. Use the [weekly recall review](templates/weekly-review.md) after the final check to record a misconception, the next practice task, and one workflow change.
 
 | Order | Task |
 | --- | --- |
