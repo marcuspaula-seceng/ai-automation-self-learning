@@ -2,6 +2,10 @@
 
 A public project for building a self-directed learning workflow with an AI tutor, a second brain for study notes, and practice that tests what the learner can do independently.
 
+## Start the pilot
+
+Open the [seven-day pilot](pilot/one-week.md) and take the baseline check on Day 1. Use the [second-brain note template](templates/study-note.md) to capture what you learn and the [AI tutor prompt](prompts/ai-tutor.md) to practice.
+
 ## Try the workflow
 
 1. **Set an outcome.** Pick one skill and write down what you want to be able to explain or do. For example, write a spreadsheet formula that sums values by category.
@@ -27,4 +31,4 @@ Run the workflow for one week on a single topic. Compare a short recall check be
 
 ## Public contributions
 
-Use generic or fictional study records in examples and issues. Keep personal notes, private source material, and credentials in your own storage. This repository currently contains the workflow and its initial backlog.
+Use generic or fictional study records in examples and issues. Keep personal notes, private source material, and credentials in your own storage. This repository contains the pilot materials and the initial backlog.
